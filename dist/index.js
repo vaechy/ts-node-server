@@ -1,2 +1,3 @@
 "use strict";
-console.log('ts-node');
+Object.defineProperty(exports, "__esModule", { value: true });
+require("./service");

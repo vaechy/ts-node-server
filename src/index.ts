@@ -1,1 +1,1 @@
-console.log('ts-node');
+import './service'
